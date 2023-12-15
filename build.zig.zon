@@ -1,6 +1,7 @@
 .{
     .name = "zap",
     .version = "0.1.14-pre",
+    .paths = .{""},
 
     .dependencies = .{
         .@"facil.io" = .{
